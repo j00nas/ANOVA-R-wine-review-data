@@ -1,4 +1,4 @@
-# ANOVA-R-wine-data
+# ANOVA-R-wine-review-data
 Complete ANOVA on a wine review dataset from Kaggle
 
 Data: https://www.kaggle.com/zynicide/wine-reviews
