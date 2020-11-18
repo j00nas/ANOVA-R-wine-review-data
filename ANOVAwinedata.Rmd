@@ -43,7 +43,6 @@ H1: There is a difference between the country or the price group and the rating.
 
 
 ##	2. Requirements for the multi-factor analysis of variance (without repetition of measurements)
-
 The dependent variable is interval scaled.<br>
 The independent variables (country and price range) are categorical (nominal or ordinal scaled).<br>
 The groups formed by the factors are independent<br>
@@ -53,7 +52,6 @@ Homogeneity of the variances: The groups come from populations with almost ident
 
 
 ##	3. Normal distribution
-
 <br>
 **countries**
 
@@ -358,38 +356,3 @@ That said, if you're stuck on a price range that doesn't match the top one, it m
 
 In the top price range, however, the range for french wines is higher (up to 100 points), which means that the french actually have better wines than the portuguese (even if they are not better in the medium).
 <br><br><br><br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
