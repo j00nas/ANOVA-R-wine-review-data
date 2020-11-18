@@ -18,6 +18,6 @@ content:
 11. Calculation of the effect size
 12. A statement
 
-# R Version 4.0.2
-# RStudio Version 1.3.1093
-# Libraries car (v 3.0-10), dplyr (v 1.0.2), sjstats (v 0.18.0)
+### R Version 4.0.2
+### RStudio Version 1.3.1093
+### Libraries car (v 3.0-10), dplyr (v 1.0.2), sjstats (v 0.18.0)
