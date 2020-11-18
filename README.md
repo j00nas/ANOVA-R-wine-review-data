@@ -3,7 +3,7 @@ Complete ANOVA on a wine review dataset from Kaggle
 
 Data: https://www.kaggle.com/zynicide/wine-reviews
 
-content:
+### Content:
 
 1. Hypothesis 
 2. Requirements for the multi-factor analysis of variance (without repetition of measurements)
