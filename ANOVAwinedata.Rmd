@@ -1,5 +1,5 @@
 ---
-title: "Analysis of variance (ANOVA) - wine data"
+title: "Analysis of variance (ANOVA) - wine review data"
 output: html_notebook
 ---
 
